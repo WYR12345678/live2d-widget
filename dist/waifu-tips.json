@@ -252,13 +252,13 @@
     "hitokoto": "这句一言来自 <span>「$1」</span>，是 <span>$2</span> 在 hitokoto.cn 投稿的。",
     "welcome": "欢迎阅读<span>「$1」</span>",
     "referrer": "Hello！来自 <span>$1</span> 的朋友",
-    "hoverBody": ["干嘛呢你，快把手拿开～～", "鼠…鼠标放错地方了！", "你要干嘛呀？", "喵喵喵？", "怕怕(ノ≧∇≦)ノ", "非礼呀！救命！", "这样的话，只能使用武力了！", "我要生气了哦", "不要动手动脚的！", "真…真的是不知羞耻！", "Hentai！"],
-    "tapBody": ["是…是不小心碰到了吧…", "萝莉控是什么呀？", "你看到我的小熊了吗？", "再摸的话我可要报警了！⌇●﹏●⌇", "110 吗，这里有个变态一直在摸我(ó﹏ò｡)", "不要摸我了，我会告诉老婆来打你的！", "干嘛动我呀！小心我咬你！", "别摸我，有什么好摸的！"]
+    "hoverBody": ["卢凌风何在？", "昭我大唐，千秋万代", "我要把你制成长安红茶，贱卖", "这里不干净？", "你的眉眼间毫无丹青之意", "我卖的是哑奴", "这世界上即没有神也没有鬼，只有装神弄鬼的人！", "此非我所愿，但愿世清平", "百姓打的刀，让我时刻不敢忘记百姓", "欢迎进入唐诡世界"],
+    "tapBody": ["丹青有其妙，亦有其神圣，在他人画作上点睛，喜君不为。","人间的思念在哪里，亡者的灵魂就在哪里 ", "人生四大忌，酒色财气，酒，穿肠的毒药；色，刮骨的钢刀；财，下山的猛虎；气，惹火的苗根。", "生，一起西行，死，共赴黄泉。", "这世上没有任何一件事可以成为助纣为虐的理由。", "在其位，谋其政。胆小怕事，不敢作为，便是渎职。","为社稷搏杀，百姓安乐，是我卢凌风毕生所愿，不管千难万险，无悔也。"]
   },
   "models": [{
     "name": "Potion-Maker/Pio",
-    "paths": ["https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/model/Potion-Maker/Pio/index.json"],
-    "message": "来自 Potion Maker 的 Pio 酱 ~"
+    "paths": ["https://fastly.jsdelivr.net/gh/oh-my-live2d/live2d_models/models/cat-white/model.json"],
+    "message": "来自 唐朝诡事录"
   }, {
     "name": "Potion-Maker/Tia",
     "paths": ["https://fastly.jsdelivr.net/gh/fghrsh/live2d_api/model/Potion-Maker/Tia/index.json"],
